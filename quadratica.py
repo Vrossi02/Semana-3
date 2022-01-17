@@ -22,5 +22,9 @@ else:
     else:
         raiz1 = (-b + math.sqrt(delta)) / (2 * a)
         raiz2 = (-b - math.sqrt(delta)) / (2 * a)
-        print("A primeira raiz é :", raiz1)
-        print("A segunda raiz é:", raiz2)
+        print("A primeira raiz é: ", raiz1)
+        print("A segunda raiz é: ", raiz2)
+        
+        
+        ### 17/01/2022 ###
+        BY: V
